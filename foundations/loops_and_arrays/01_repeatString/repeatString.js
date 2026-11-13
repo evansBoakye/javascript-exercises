@@ -8,7 +8,6 @@ const repeatString = function(word, number) {
     }
     return summedWord
 };
-console.log(repeatString("HI", 5));
 
 // Do not edit below this line
 module.exports = repeatString;
